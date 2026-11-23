@@ -1,0 +1,14 @@
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P1CreateClasses/bin/Debug/net8.0/P1CreateClasses
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P1CreateClasses/bin/Debug/net8.0/P1CreateClasses.deps.json
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P1CreateClasses/bin/Debug/net8.0/P1CreateClasses.runtimeconfig.json
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P1CreateClasses/bin/Debug/net8.0/P1CreateClasses.dll
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P1CreateClasses/bin/Debug/net8.0/P1CreateClasses.pdb
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P1CreateClasses/obj/Debug/net8.0/P1CreateClasses.GeneratedMSBuildEditorConfig.editorconfig
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P1CreateClasses/obj/Debug/net8.0/P1CreateClasses.AssemblyInfoInputs.cache
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P1CreateClasses/obj/Debug/net8.0/P1CreateClasses.AssemblyInfo.cs
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P1CreateClasses/obj/Debug/net8.0/P1CreateClasses.csproj.CoreCompileInputs.cache
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P1CreateClasses/obj/Debug/net8.0/P1CreateClasses.dll
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P1CreateClasses/obj/Debug/net8.0/refint/P1CreateClasses.dll
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P1CreateClasses/obj/Debug/net8.0/P1CreateClasses.pdb
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P1CreateClasses/obj/Debug/net8.0/P1CreateClasses.genruntimeconfig.cache
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P1CreateClasses/obj/Debug/net8.0/ref/P1CreateClasses.dll

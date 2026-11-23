@@ -1,0 +1,14 @@
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P4ImplementInterfaces/bin/Debug/net8.0/P4ImplementInterfaces
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P4ImplementInterfaces/bin/Debug/net8.0/P4ImplementInterfaces.deps.json
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P4ImplementInterfaces/bin/Debug/net8.0/P4ImplementInterfaces.runtimeconfig.json
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P4ImplementInterfaces/bin/Debug/net8.0/P4ImplementInterfaces.dll
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P4ImplementInterfaces/bin/Debug/net8.0/P4ImplementInterfaces.pdb
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P4ImplementInterfaces/obj/Debug/net8.0/P4ImplementInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P4ImplementInterfaces/obj/Debug/net8.0/P4ImplementInterfaces.AssemblyInfoInputs.cache
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P4ImplementInterfaces/obj/Debug/net8.0/P4ImplementInterfaces.AssemblyInfo.cs
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P4ImplementInterfaces/obj/Debug/net8.0/P4ImplementInterfaces.csproj.CoreCompileInputs.cache
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P4ImplementInterfaces/obj/Debug/net8.0/P4ImplementInterfaces.dll
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P4ImplementInterfaces/obj/Debug/net8.0/refint/P4ImplementInterfaces.dll
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P4ImplementInterfaces/obj/Debug/net8.0/P4ImplementInterfaces.pdb
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P4ImplementInterfaces/obj/Debug/net8.0/P4ImplementInterfaces.genruntimeconfig.cache
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P4ImplementInterfaces/obj/Debug/net8.0/ref/P4ImplementInterfaces.dll

@@ -1,0 +1,14 @@
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P2UpdateClasses/bin/Debug/net8.0/P2UpdateClasses
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P2UpdateClasses/bin/Debug/net8.0/P2UpdateClasses.deps.json
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P2UpdateClasses/bin/Debug/net8.0/P2UpdateClasses.runtimeconfig.json
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P2UpdateClasses/bin/Debug/net8.0/P2UpdateClasses.dll
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P2UpdateClasses/bin/Debug/net8.0/P2UpdateClasses.pdb
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P2UpdateClasses/obj/Debug/net8.0/P2UpdateClasses.GeneratedMSBuildEditorConfig.editorconfig
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P2UpdateClasses/obj/Debug/net8.0/P2UpdateClasses.AssemblyInfoInputs.cache
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P2UpdateClasses/obj/Debug/net8.0/P2UpdateClasses.AssemblyInfo.cs
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P2UpdateClasses/obj/Debug/net8.0/P2UpdateClasses.csproj.CoreCompileInputs.cache
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P2UpdateClasses/obj/Debug/net8.0/P2UpdateClasses.dll
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P2UpdateClasses/obj/Debug/net8.0/refint/P2UpdateClasses.dll
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P2UpdateClasses/obj/Debug/net8.0/P2UpdateClasses.pdb
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P2UpdateClasses/obj/Debug/net8.0/P2UpdateClasses.genruntimeconfig.cache
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P2UpdateClasses/obj/Debug/net8.0/ref/P2UpdateClasses.dll

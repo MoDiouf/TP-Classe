@@ -1,0 +1,14 @@
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P3ImplementClasses/bin/Debug/net8.0/P3ImplementClasses
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P3ImplementClasses/bin/Debug/net8.0/P3ImplementClasses.deps.json
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P3ImplementClasses/bin/Debug/net8.0/P3ImplementClasses.runtimeconfig.json
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P3ImplementClasses/bin/Debug/net8.0/P3ImplementClasses.dll
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P3ImplementClasses/bin/Debug/net8.0/P3ImplementClasses.pdb
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P3ImplementClasses/obj/Debug/net8.0/P3ImplementClasses.GeneratedMSBuildEditorConfig.editorconfig
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P3ImplementClasses/obj/Debug/net8.0/P3ImplementClasses.AssemblyInfoInputs.cache
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P3ImplementClasses/obj/Debug/net8.0/P3ImplementClasses.AssemblyInfo.cs
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P3ImplementClasses/obj/Debug/net8.0/P3ImplementClasses.csproj.CoreCompileInputs.cache
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P3ImplementClasses/obj/Debug/net8.0/P3ImplementClasses.dll
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P3ImplementClasses/obj/Debug/net8.0/refint/P3ImplementClasses.dll
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P3ImplementClasses/obj/Debug/net8.0/P3ImplementClasses.pdb
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P3ImplementClasses/obj/Debug/net8.0/P3ImplementClasses.genruntimeconfig.cache
+/home/dazaigt/Bureau/Projects/TP Classe/POOMODI/P3ImplementClasses/obj/Debug/net8.0/ref/P3ImplementClasses.dll
